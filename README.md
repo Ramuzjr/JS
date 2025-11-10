@@ -16,7 +16,7 @@ Exercícos com JavaScript
 
 <img align="left" title="html" width="50px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+/><br /><br />
           
 ### Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dark&include_all_commits=true)
