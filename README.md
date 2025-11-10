@@ -23,7 +23,3 @@ Exercícos com JavaScript
 <img align="left" alt="GitHub Stats" height="200px" style="padding-right:10px;"
   src="https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dark&include_all_commits=true" 
 />
-
-<img align="left" alt="GitHub Stats" height="200px" style="padding-right:10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramuzjr)" 
-/>
