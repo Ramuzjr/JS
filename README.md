@@ -20,7 +20,7 @@ Exercícos com JavaScript
           
 ### Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dark&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramuzjr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&locale=pt-br) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramuzjr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) 
 
