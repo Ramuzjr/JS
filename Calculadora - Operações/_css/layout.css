@@ -1,0 +1,14 @@
+body{
+    background-color: #e6b208;
+}
+.container{
+    width: 60%; margin: auto; margin-top: 50px;
+    border-radius: 5px;margin-bottom: 5px;
+}
+.resposta{
+    width: 58%; margin: auto; margin-top: 10px;
+    border-radius: 5px;margin-bottom: 5px;
+}
+#calculo{
+    padding: 8px;
+}

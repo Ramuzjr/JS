@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Calculadora Básica</title>
+
+    <!-- Bootstrap -->
+    <link href="_assets/_bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="_css/layout.css">
+  </head>
+  
+  <body>
+
+    <div class="container">
+      <div class="page-header">
+        <h1>Calculadora:</h1>
+      </div>
+
+      <div class="row pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto bg-white shadow-lg p3 md-5 rounded">
+
+        <div class="col-md-4">
+          <input id="num1" type="number" class="form-control" placeholder="número:">
+        </div>
+
+        <div class="col-md-4">
+          <select id="operacao" class="form-control ">
+            <option value="">Escolha sua Operação</option>
+            <option value="1">Adição</option>
+            <option value="2">Divisão</option>
+            <option value="3">Multiplicação</option>
+            <option value="4">Subtração</option>
+          </select>
+        </div>
+        <div class="col-md-4 mb-4">
+          <input id="num2" type="number" class="form-control" placeholder="número:">
+        </div>
+
+        <div class="col-md-4">
+          <button type="submit" class="btn btn-primary" onclick="calcular()">Calcular</button>
+          <a href="index.html" class="btn btn-danger">Limpar</a>
+        </div><hr>
+      </div>
+    </div>
+
+    <div class="resposta px-3 py-3 pt-md-5 pb-md-4 mx-auto bg-white shadow-lg p3 md-5 rounded">
+      <div class="">
+        <label for="">Resultado:</label>
+        <input id="calculo" type="text" class="form-control" readonly>
+      </div><hr>
+    </div>
+
+
+    <script src="_js/calcular.js"></script>
+  </body>
+
+</html>

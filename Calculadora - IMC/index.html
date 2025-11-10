@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de IMC</title>
+
+    <link rel="stylesheet" href="_css/layout.css">    
+    <!-- Bootstrap -->
+    <link href="_assets/_bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="area-1 pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto bg-white shadow-lg p3 md-5 rounded">
+        <h1>Digite Seus Dados</h1><hr>
+        <div class="row">            
+            <div class="col-md-4 mb-3">
+                <label>Nome:</label>
+                <input type="text" class="form-control" id="nome">        
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <label>Altura:</label>
+                <input type="number" class="form-control" id="altura">
+            </div>
+            <div class="col-md-4 mb-3">
+                <label>Peso:</label>
+                <input type="number" class="form-control" id="peso">
+            </div>
+        </div>
+        
+        <button class="btn btn-primary" id="calcular">Calcular</button>        
+        <a href="index.html" class="btn btn-danger">Limpar</a>
+    </div>
+
+    <div class="area-2 pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto bg-white shadow-lg p3 md-5 rounded">
+        <label for="resultado">Resultado:</label>
+        <div id="resultado" class="form-control" aria-readonly="readonly"> </div>
+    </div>
+
+    <script src="_js/calcular.js"></script>
+</body>
+</html>
