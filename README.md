@@ -18,3 +18,5 @@ Exercícos com JavaScript
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
           
+### Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dark&include_all_commits=true)
