@@ -22,6 +22,4 @@ Exercícos com JavaScript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dark&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramuzjr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
